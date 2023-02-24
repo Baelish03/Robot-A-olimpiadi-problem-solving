@@ -1,0 +1,1 @@
+Punto di arrivo: [-1,10,w]
