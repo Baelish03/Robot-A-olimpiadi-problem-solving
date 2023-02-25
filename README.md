@@ -1,4 +1,4 @@
-# Robot-A-olimpiadi-problema-solving
+# Robot-A-olimpiadi-problem-solving
 Robottino degli esercizi di problem solving con riga di comandi a,o,f
 
 ISTRUZIONI ROBOT 4.0 <br>
